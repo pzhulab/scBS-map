@@ -1,5 +1,7 @@
 # scBS-map
 
+> Citation: Wu, P., Gao, Y., Guo, W. & Zhu, P. Using local alignment to enhance single-cell bisulfite sequencing data efficiency. Bioinformatics 35, 3273–3278 (2019).
+
 - **Description**: Single-cell Bisulfite Sequencing Data Mapping. scBS-map includes 5 steps:
 <img src="./workflow.png" width = "60%" height = "60%" />
 
